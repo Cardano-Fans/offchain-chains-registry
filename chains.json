@@ -2,6 +2,8 @@
     {
         "chain": "Milkomeda",
         "url": "https://milkomeda.com",
+        "twitterUrl:" "https://twitter.com/Milkomeda_com",
+        "discordUrl": "???",
         "version": "1.0",
         "logo": "???",
         "vm": "EVM",
@@ -26,6 +28,8 @@
     {
         "chain": "Shareslake",
         "url": "https://shareslake.com",
+        "twitterUrl:" "https://twitter.com/Shareslake",
+        "discord": "???",
         "version": "1.0",
         "logo": "???",
         "vm": "UPLC",
