@@ -11,7 +11,7 @@
         "type": "Sidechain",
         "subtybe": "Endochain",
         "walletNetworkCompatibility": ["EVM"],
-        "bridgeUrls": ["https://cardano-bridge.milkomeda.com/bridge"],
+        "bridgeUrls": ["https://cardano-bridge.milkomeda.com/bridge", "https://app.blueshift.fi/#/bridge"],
         "explorerUrls": ["https://explorer-mainnet-cardano-evm.c1.milkomeda.com"],
         "dappUrls": ["https://milkomeda.com/dapp-store"],
         "documentationUrls": [],
